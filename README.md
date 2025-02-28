@@ -33,10 +33,10 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
 1. Knowing the Date-Range mentioned in the COVID Dataset:
         ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL1.jpg)
 
-2. FInding Total cases, total deaths 'continent' wise and arranging them from highest to lowest:
+2. Finding Total cases, total deaths 'continent' wise and arranging them from highest to lowest:
         ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL2.jpg)
 
-3. FInding Total cases, total deaths 'country' wise and arranging them from highest to lowest:
+3. Finding Total cases, total deaths 'country' wise and arranging them from highest to lowest:
         ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL3.jpg)
 
 4. Total Deaths vs. Total cases , Death percentage :
@@ -77,4 +77,10 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
 
 16. Using ROW_NUM(), CTE, Showing the Country details with 2nd Highest, 3rd Highest number of Death cases
         ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL16.jpg)
+
+
+## 💡 Conclusion
+
+This is a SQL Exploratory Anasysis for analysising countris or continents to know about their population, deaths due to COVID, vaccinations people got for COVID in each region. It gives insights in the COVID time for the year 2020, 2021. By writing SQL queries, we can know the insights and get a report of all the different scenarios and conditions for COVID.
+
 
