@@ -1,6 +1,23 @@
-# COVID-Death-Vaccination_Report
+# COVID Death Vaccination Report
+
+## 📚 Overview:
+
 This Project provides SQL queries for analysing CovidDeaths.csv and CovidVaccinations.csv Dataset from 01-01-2020 to 04-30-2021 focusing on trends and insights for the different Countries, Continents.
 It is a SQL Data Exploration Project where I used data cleaning and filteration to get the desired datasets and then wrote SQL queries to draw insights from the dataset.
+
+Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations used:
+![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/COVID_Deaths.jpg)
+![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/COVID_Vaccinations.jpg)
+
+
+## ✏️ Data cleaning:
+
+- Changed Data types for columns that were incorrectly added in the dataset
+- eg. Changed decimal values to Float where it was INT, VARCHAR(1) to VARACHAR(20) if it needed more characters
+- Arranged the columns by ordering other columns according to use
+- Hid columns not required for the dataset for faster access of columns that were required
+- Changed names of columns to a better name so it was accurate to understand
+  
 
 ## This COVID SQL report covers differet scenarios like:
 - Finding Total COVID cases, deaths 'continent'/'country' wise
@@ -9,3 +26,55 @@ It is a SQL Data Exploration Project where I used data cleaning and filteration 
 - People fully Vaccinated RATE acc. to Population Country/Region wise
 - Highest Number of Cases, Deaths, Vaccinations each Continent Month-wise for a Year
 - Using ROW_NUMBER(), CTE, Showing the Country details grouped by highest number of Death cases
+
+
+## 📊 Technical - SQL Queries & Scenarios:
+
+1. Knowing the Date-Range mentioned in the COVID Dataset:
+        ![Data Screenshot](SQL1_Survival_Rate_byclass.png)
+
+2. FInding Total cases, total deaths 'continent' wise and arranging them from highest to lowest:
+        ![Data Screenshot](SQL2_Survival_Rate_byclass.png)
+
+3. FInding Total cases, total deaths 'country' wise and arranging them from highest to lowest:
+        ![Data Screenshot](SQL3_Survival_Rate_byclass.png)
+
+4. Total Deaths vs. Total cases , Death percentage :
+        ![Data Screenshot](SQL4_Survival_Rate_byclass.png)
+
+5. Total Deaths vs. Total cases , Death percentage each Country:
+        ![Data Screenshot](SQL5_Survival_Rate_byclass.png)
+
+6. Total Deaths vs. Total cases , Death %age for a specific Continent/Country/Location:
+        ![Data Screenshot](SQL6_Survival_Rate_byclass.png)
+
+7. Calculating Highest Infection Rate per Country acc. to Population:
+        ![Data Screenshot](SQL7_Survival_Rate_byclass.png)
+
+8. Top 10 Countries with  Highest Infection Rate:
+        ![Data Screenshot](SQL8_Survival_Rate_byclass.png)
+
+9. Infection Rate per Continent acc. to Population:
+        ![Data Screenshot](SQL9_Survival_Rate_byclass.png)
+
+10. Countries with  Highest Death Rate acc. to Population:
+        ![Data Screenshot](SQL10_Survival_Rate_byclass.png)
+
+11. Death Rate - Continent wise acc. to Population:
+        ![Data Screenshot](SQL11_Survival_Rate_byclass.png)
+
+12. COVID Deaths & Vaccinations Dataset:
+        ![Data Screenshot](SQL12_Survival_Rate_byclass.png)
+
+13. People fully vaccinated RATE acc. to Population for each Country/Region:
+        ![Data Screenshot](SQL13_Survival_Rate_byclass.png)
+
+14. People fully vaccinated RATE acc. to Population for each Continent:
+        ![Data Screenshot](SQL14_Survival_Rate_byclass.png)
+
+15. Highest Number of Cases, Deaths, Vaccinations for Year - 2020 for each Continent every Month:
+        ![Data Screenshot](SQL15_Survival_Rate_byclass.png)
+
+16. Using ROW_NUM(), CTE, Showing the Country details with 2nd Highest, 3rd Highest number of Death cases
+        ![Data Screenshot](SQL16_Survival_Rate_byclass.png)
+
