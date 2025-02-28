@@ -88,6 +88,8 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
 
 ## 💡 Conclusion
 
-This is a SQL Exploratory Anasysis for analysising countris or continents to know about their population, deaths due to COVID, vaccinations people got for COVID in each region. It gives insights in the COVID time for the year 2020, 2021. By writing SQL queries, we can know the insights and get a report of all the different scenarios and conditions for COVID.
+This is a SQL Exploratory Anasysis for analysing countries or continents to know more about their population, deaths due to COVID, vaccinations people got for COVID in each region. It gives insights into the COVID virus happenings for the year 2020, 2021. By writing SQL queries, we can know the insights and get a report of all the different scenarios and conditions for COVID.
+
+### SQL CODE: [Link](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/Covid_Death_VaccinationSQLProject.sql)
 
 
