@@ -14,6 +14,7 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
 ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/COVID_Vaccinations.jpg)
 
 
+
 ## ✏️ Data cleaning:
 
 - Changed Data types for columns that were incorrectly added in the dataset
@@ -23,6 +24,7 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
 - Changed names of columns to a better name so it was accurate to understand
   
 
+
 ## This COVID SQL report covers differet scenarios like:
 - Finding Total COVID cases, deaths 'continent'/'country' wise
 - Comapring Total Deaths, Total cases, Death percentage for Population
@@ -30,6 +32,7 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
 - People fully Vaccinated RATE acc. to Population Country/Region wise
 - Highest Number of Cases, Deaths, Vaccinations each Continent Month-wise for a Year
 - Using ROW_NUMBER(), CTE, Showing the Country details grouped by highest number of Death cases
+
 
 
 ## 📊 Technical - SQL Queries & Scenarios:
