@@ -31,10 +31,10 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
 ## 📊 Technical - SQL Queries & Scenarios:
 
 1. Knowing the Date-Range mentioned in the COVID Dataset:
-        ![Data Screenshot](SQL1_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL1.jpg)
 
 2. FInding Total cases, total deaths 'continent' wise and arranging them from highest to lowest:
-        ![Data Screenshot](SQL2_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL2.jpg)
 
 3. FInding Total cases, total deaths 'country' wise and arranging them from highest to lowest:
         ![Data Screenshot](SQL3_Survival_Rate_byclass.png)
