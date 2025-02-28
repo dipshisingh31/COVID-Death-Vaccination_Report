@@ -1,4 +1,4 @@
-# COVID Death Vaccination Report
+# COVID Death Vaccination - SQL Report
 
 ## 📚 Overview:
 
@@ -37,44 +37,44 @@ Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations u
         ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL2.jpg)
 
 3. FInding Total cases, total deaths 'country' wise and arranging them from highest to lowest:
-        ![Data Screenshot](SQL3_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL3.jpg)
 
 4. Total Deaths vs. Total cases , Death percentage :
-        ![Data Screenshot](SQL4_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL4.jpg)
 
 5. Total Deaths vs. Total cases , Death percentage each Country:
-        ![Data Screenshot](SQL5_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL5.jpg)
 
 6. Total Deaths vs. Total cases , Death %age for a specific Continent/Country/Location:
-        ![Data Screenshot](SQL6_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL6.jpg)
 
 7. Calculating Highest Infection Rate per Country acc. to Population:
-        ![Data Screenshot](SQL7_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL7.jpg)
 
 8. Top 10 Countries with  Highest Infection Rate:
-        ![Data Screenshot](SQL8_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL8.jpg)
 
 9. Infection Rate per Continent acc. to Population:
-        ![Data Screenshot](SQL9_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL9.jpg)
 
 10. Countries with  Highest Death Rate acc. to Population:
-        ![Data Screenshot](SQL10_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL10.jpg)
 
 11. Death Rate - Continent wise acc. to Population:
-        ![Data Screenshot](SQL11_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL11.jpg)
 
 12. COVID Deaths & Vaccinations Dataset:
-        ![Data Screenshot](SQL12_Survival_Rate_byclass.png)
+       ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL12.jpg)
 
 13. People fully vaccinated RATE acc. to Population for each Country/Region:
-        ![Data Screenshot](SQL13_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL13.jpg)
 
 14. People fully vaccinated RATE acc. to Population for each Continent:
-        ![Data Screenshot](SQL14_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL14.jpg)
 
 15. Highest Number of Cases, Deaths, Vaccinations for Year - 2020 for each Continent every Month:
-        ![Data Screenshot](SQL15_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL15.jpg)
 
 16. Using ROW_NUM(), CTE, Showing the Country details with 2nd Highest, 3rd Highest number of Death cases
-        ![Data Screenshot](SQL16_Survival_Rate_byclass.png)
+        ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/SQL16.jpg)
 
