@@ -6,7 +6,11 @@ This Project provides SQL queries for analysing CovidDeaths.csv and CovidVaccina
 It is a SQL Data Exploration Project where I used data cleaning and filteration to get the desired datasets and then wrote SQL queries to draw insights from the dataset.
 
 Here is a quick snapshot of the two datasets for COVID Deaths and Vaccinations used:
+
+### COVID Deaths Dataset Snapshot:
 ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/COVID_Deaths.jpg)
+
+### COVID Vaccinations Dataset Snapshot:
 ![Data Screenshot](https://github.com/dipshisingh31/COVID-Death-Vaccination_SQLReport/blob/main/COVID_Vaccinations.jpg)
 
 
